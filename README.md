@@ -53,4 +53,3 @@ Feel free to provide feedback or suggestions! Contributions are welcome.
 ---
 
 **Author: Aditya Dwivedi**
-```
